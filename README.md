@@ -5,7 +5,7 @@
 
 
 
-## Authors
+## Author
 
 - [@Anandhasivam-00](https://www.github.com/Anandhasivam-00)
 
